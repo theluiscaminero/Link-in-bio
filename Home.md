@@ -1,7 +1,11 @@
 # Favorite Resources
 ## Contents
+- [Favorite Charities](#favorite-charities)
 - [Veganism](#veganism)
 - [Personal Finance and Investing](#personal-finance-and-investing)
+
+### Favorite Charities
+- 
 
 ### Veganism
 - [VeganSociety.com](https://www.vegansociety.com/go-vegan/why-go-vegan) - why go vegan.
