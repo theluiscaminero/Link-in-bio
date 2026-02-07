@@ -12,6 +12,9 @@
 [Back to top 🔝](#contents)
 
 ### Personal Finance and Investing
+- [The Richest Man In Babylon](https://en.wikipedia.org/wiki/The_Richest_Man_in_Babylon) - timeless financial advice through a collection of parables.
+- [The Richest Man In Babylon](https://en.wikipedia.org/wiki/The_Richest_Man_in_Babylon) - timeless financial advice through a collection of parables.
+- [The Richest Man In Babylon](https://en.wikipedia.org/wiki/The_Richest_Man_in_Babylon) - timeless financial advice through a collection of parables.
 - [Bogleheads.org/wiki](https://www.bogleheads.org/wiki/Main_Page) - investing advice inspired by John Bogle.
 
 [Back to top 🔝](#contents)
