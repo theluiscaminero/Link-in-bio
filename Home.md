@@ -12,6 +12,6 @@
 [Back to top 🔝](#contents)
 
 ### Personal Finance and Investing
-- [Bogleheads.org/wiki](https://www.bogleheads.org/wiki/Main_Page) - 
+- [Bogleheads.org/wiki](https://www.bogleheads.org/wiki/Main_Page) - investing advice inspired by John Bogle.
 
 [Back to top 🔝](#contents)
