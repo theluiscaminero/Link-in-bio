@@ -1,2 +1,2 @@
 # Favorite Resources
-- [Veganhealth.org](www.veganhealth.org)
+- [Veganhealth.org](https://veganhealth.org/)
