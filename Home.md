@@ -1,7 +1,7 @@
 # Favorite Resources
 ## Contents
 - [Veganism](#veganism)
-- [Investing](#investing)
+- [Personal Finance and Investing](#personal-finance-and-investing)
 
 ### Veganism
 - [VeganSociety.com](https://www.vegansociety.com/go-vegan/why-go-vegan) - why go vegan.
@@ -11,7 +11,7 @@
 
 [Back to top 🔝](#contents)
 
-### Investing
+### Personal Finance and Investing
 - 
 
 [Back to top 🔝](#contents)
