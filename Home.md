@@ -5,7 +5,8 @@
 - [Personal Finance and Investing](#personal-finance-and-investing)
 
 ### Favorite Charities
-- [GiveWell](https://www.givewell.org/) - nonprofit dedicated to helping people in need by researching the most cost‑effective ways to save and improve lives.
+- [GiveWell.org](https://www.givewell.org/) - nonprofit dedicated to helping people in need by researching the most cost‑effective ways to save and improve lives.
+- [FarmKind.giving](https://www.farmkind.giving/) - 
 
 ### Veganism
 - [VeganSociety.com](https://www.vegansociety.com/go-vegan/why-go-vegan) - why go vegan.
