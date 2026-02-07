@@ -4,6 +4,7 @@
 
 ### Veganism
 - []() - Why choose to be vegan
-- [Veganhealth.org](https://veganhealth.org/) - Basic nutrition for vegans.
+- [VeganHealth.org](https://veganhealth.org/) - Basic nutrition for vegans.
+- [NutritionFacts.org](https://nutritionfscts.org) - Free updates on the latest in nutrition research via bite-sized videos, blogs, podcasts, and infographics.
 
 [Back to top 🔝](#contents)
