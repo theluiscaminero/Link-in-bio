@@ -5,9 +5,11 @@
 - [Personal Finance and Investing](#personal-finance-and-investing)
 
 ### Charities
-- Buy according to your values (where you spend matters).
+- Dollar Voting - buy according to your values (where you spend matters).
 - [GiveWell.org](https://www.givewell.org/) - nonprofit dedicated to helping people in need by researching the most cost‑effective ways to save and improve lives.
 - [FarmKind.giving](https://www.farmkind.giving/) - highly impactful animal charities that based on the best evidence available.
+
+[Back to top 🔝](#contents)
 
 ### Veganism
 - [VeganSociety.com](https://www.vegansociety.com/go-vegan/why-go-vegan) - why go vegan.
