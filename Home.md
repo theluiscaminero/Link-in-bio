@@ -1,2 +1,2 @@
 # Favorite Resources
-- [veganhealth.org](https://veganhealth.org/)
+- [Veganhealth.org](https://veganhealth.org/) - Basic nutrition for vegans
